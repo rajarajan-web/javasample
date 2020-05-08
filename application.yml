@@ -1,0 +1,9 @@
+my:
+   greeting: Hello World 
+   list : 
+        values : one , two, three 
+
+db:
+  conncetion:connection-string-here
+  host:127.0.0
+  port:1200
